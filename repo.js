@@ -5,7 +5,7 @@
 		"HitboxPatch": "EoSD Always Visible hitbox. Ported from Hitbox Patch v0.1"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/chrisGrando/EoSD-Hitbox/master/"
+		"https://raw.githubusercontent.com/chrisGrando/thcrap-patches/master/"
 	],
 	"title": "Patches by kriChris"
 }
