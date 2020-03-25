@@ -1,4 +1,7 @@
 {
+	"dependencies": [
+		"nmlgc/base_tsa"
+	],
 	"id": "Auto-Bomb",
 	"servers": [
 		"https://raw.githubusercontent.com/chrisGrando/thcrap-patches/master/Auto-Bomb/"
