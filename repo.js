@@ -8,5 +8,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/chrisGrando/thcrap-patches/master/"
 	],
-	"title": "Support patches"
+	"title": "Dreamland's Crazy Tea Party"
 }
