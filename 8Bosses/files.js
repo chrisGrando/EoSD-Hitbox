@@ -1,6 +1,6 @@
 {
 	"patch.js": 2349492545,
-	"th08.v1.00d.js": 719533320,
+	"th08.v1.00d.js": 137286381,
 	"th08/ecldata1.ecl": 2228581166,
 	"th08/ecldata2.ecl": 928897874,
 	"th08/ecldata3.ecl": 403789789,

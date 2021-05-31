@@ -1,7 +1,7 @@
 {
     "binhacks": {
         "Time Items": {
-            "addr": "0x441373"
+            "addr": "0x441373",
 			"code": "6a79",
             "title": "Increase value of small time items to 127"
         },
