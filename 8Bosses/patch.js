@@ -10,6 +10,6 @@
 	"servers": [
 		"https://raw.githubusercontent.com/chrisGrando/thcrap-patches/master/8Bosses/"
 	],
-	"title": "(TH08) Boss Rush through all 8 main stages",
+	"title": "[WIP] (TH08) Boss Rush through all 8 main stages",
 	"update": true
 }
